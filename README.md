@@ -12,3 +12,8 @@ Frøslev, T. G., Kjøller, R., Bruun, H. H., Ejrnæs, R., Brunbjerg, A. K., Piet
 
 #dinoRNAV analyses:
 
+All non-read files needed to reproduce read processing with vAMPirus are available here: https://zenodo.org/record/7552892#.Y_PAa-zMK3I
+
+R scripts associated with diversity analyses and creating the phylogenetic tree have been uploaded here.
+
+All mcp gene amplicon libraries and Symbiodiniaceae LSU gene amplicon libraries are available at the Sequence Read Archive under accession numbers PRJNA928208 and PRJNA930706, respectively.
